@@ -57,9 +57,9 @@ MindMate/
 └─ README.md
 
 ## 💬 Example Conversation
-==================================================
+
            MindMate – AI Companion
-==================================================
+
 MindMate: Hi — I'm here to listen. Type 'quit' or 'exit' to leave.
 
 You: I feel really low today.
